@@ -4,10 +4,10 @@ webdev code editor
 
 this is a live code editor			
 
-there is no installation 			
-	```clone the repo```			
-	https://github.com/devweb-code-editor/devweb-frount-end-editor
-	```open the index.html file```					
+there is no installation                    
+	```clone the repo```        
+	https://github.com/devweb-code-editor/devweb-front-end-editor        
+	```open the index.html file```							
 
 index.html				
 
